@@ -1,0 +1,22 @@
+p{
+    background: black;
+    color: aqua;
+    text-align: center;
+    text-shadow: 5px 5px 5px white;
+}
+.div1{
+    margin: auto;
+    width: max-content;
+}
+.image1{
+    height: 100px;
+    width: 200px;
+    border-radius: 50% 50% 50% 50%;
+    box-shadow: 5px 5px 5px green;
+}
+
+#image2{
+    padding: 50px;
+    height: 100px;
+    width: 100px;
+}
